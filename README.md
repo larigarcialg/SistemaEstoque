@@ -49,6 +49,20 @@ src/
 3. Execute a classe `Main.java`.
 4. Utilize o menu para gerenciar o estoque.
 
+## 💻 Exemplo de execução
+
+```text
+===== SISTEMA DE ESTOQUE =====
+
+1 - Cadastrar Produto
+2 - Listar Produtos
+3 - Buscar Produto
+4 - Atualizar Estoque
+5 - Remover Produto
+0 - Sair
+
+Escolha uma opção:
+
 ---
 
 ## 📚 Conceitos aplicados
